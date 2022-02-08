@@ -7,7 +7,7 @@ Create Arrays (Working with For Loops)
 
 - Remember: " Location of next index depends on the data type we use " 
 
-###[![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/array-1.png)
+### ![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/array-1.png)
 # Note 
 ### This is the first Repo for DSA with python.
 
