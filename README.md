@@ -6,8 +6,8 @@ Create Arrays (Working with For Loops)
 > For simplicity, we can think of an array as a fleet of stairs where on each step is placed a value (let’s say one of your friends). Here, you can identify the location of any of your friends by simply knowing the count of the step they are on. 
 
 - Remember: " Location of next index depends on the data type we use " 
-\n
-[![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/array-1.png)]
+
+### [![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/array-1.png)]
 # Note 
 ### This is the first Repo for DSA with python.
 
